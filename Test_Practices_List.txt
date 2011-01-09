@@ -1,9 +1,18 @@
 【文件路径】
-
+Unit Testing:
+    单元测试报告-------Testing_Practices\Unit Testing.docx
+	测试代码-----------Testing_Practices\testingCode\BuyQuoteDAOTest.java
+	                   Testing_Practices\testingCode\SellQuoteDAOTest.java
+					   Testing_Practices\testingCode\StockDAOTest.java
+					   Testing_Practices\testingCode\StockUserDAOTest.java
+					   Testing_Practices\testingCode\TradeDAOTest.java
+					   Testing_Practices\testingCode\StockTodayInfoTest.java
 System Or Integration Testing：
 	安全性测试报告------Testing_Practices\Security Testing.doc
 	可用性测试报告-------Testing_Practices\Useability Testing.doc
 	本地化/国际化测试报告：Testing_Practices\Localization&Internationalization.doc
 Bug（issu）Tracker:
 	Bug追踪------Testing_Practices\bug tracker.doc
+	
+	修改后的源代码提交在Beta-2分支
 
